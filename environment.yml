@@ -1,9 +1,0 @@
-name: python 3.11
-dependencies:
-  - python=3.11
-  - numpy
-  - pandas
-  - itertools
-  - matplotlib
-  - pandas
-  - sklearn
